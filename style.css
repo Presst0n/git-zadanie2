@@ -1,0 +1,8 @@
+table {
+    border: 2px outset #000
+}
+      
+th,
+td {
+    border: 2px inset #000;
+}
