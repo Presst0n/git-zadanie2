@@ -1,0 +1,16 @@
+h1 {
+    margin-left: 25px;
+    color: #fff;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background-color: #fea500;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+body {
+    background-color: #808080;
+}
