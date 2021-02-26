@@ -1,0 +1,17 @@
+nav {
+    display: block;
+}
+
+table {
+    border: 2px outset #000
+}
+      
+th,
+td {
+    border: 2px inset #000;
+}
+
+#wiadomosc {
+    height:100px;
+    width: 141px;
+}
