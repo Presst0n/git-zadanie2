@@ -14,6 +14,10 @@ h3 {
     background-color: cornflowerblue;
 }
 
+p + h3 {
+    background-color: rgb(216, 100, 237);
+}
+
 h1 + h3 {
     color: white;
 }
