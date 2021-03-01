@@ -1,0 +1,13 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.kolorki {
+    background-color: cornflowerblue;
+}
+
+.transparentne {
+    opacity: 0.4;
+}
