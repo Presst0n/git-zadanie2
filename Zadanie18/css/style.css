@@ -1,0 +1,20 @@
+body {
+    background-color: #faebd6;
+}
+
+h1, p {
+    margin-bottom: 35px;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+h1 ~ p {
+    color: #00008f;
+}
+
+h1 + p {
+    color: #a42423;
+}
+
