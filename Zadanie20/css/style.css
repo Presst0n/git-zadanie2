@@ -1,0 +1,43 @@
+body {
+    background-color: #bcdbff;
+}
+
+h1 {
+    background-color: #bcc0ff;
+}
+
+h2 {
+    background-color: #7fcc99;
+}
+
+section > header ~ p {
+    background-color: rgb(207, 194, 228);
+}
+
+section > h2 + p {
+    background-color: rgb(188, 246, 234);
+}
+
+ol {
+    background-color: rgb(213, 238, 192);
+}
+
+#l1 {
+    color: blue;
+}
+
+#l2 {
+    color: brown;
+}
+
+#l3 {
+    color: green;
+}
+
+#l4 {
+    color: orange;
+}
+
+#l5 {
+    color: magenta;
+}
