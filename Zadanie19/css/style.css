@@ -1,0 +1,28 @@
+body {
+    background-color: #f5f5dd;
+}
+
+.divy {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+#div1 {
+    margin-top: 50px;
+    background: rgba(0, 0, 0);
+}
+
+#div2 {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+#div3 {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+#div4 {
+    background: rgba(0, 0, 0, 0.2);
+}
+
